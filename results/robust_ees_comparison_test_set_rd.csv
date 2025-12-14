@@ -1,0 +1,6 @@
+Metric,Unit,EQODEC (Mean ± Std),Baseline (Mean ± Std)
+EES,GB/kgCO2,2.182022 ± 0.122040,2.083198 ± 0.030465
+PSNR (Test Set),dB,16.1505 ± 1.6436,17.1532 ± 0.4132
+Overhead Time,s,7.002199 ± 0.168555,6.986921 ± 0.035673
+Compressed Size,GB,0.000366 ± 0.000045,0.000418 ± 0.000011
+Total kgCO2 Overhead,kgCO2,0.000514 ± 0.000012,0.000513 ± 0.000003
