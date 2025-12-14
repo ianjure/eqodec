@@ -1,0 +1,22 @@
+name: eqodec
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - ipykernel
+  - notebook
+  - ffmpeg
+  - av=10.0.0
+  - opencv
+  - pip
+  - pip:
+      - torch==2.4.1+cu118
+      - torchvision==0.19.1+cu118
+      - torchaudio==2.4.1+cu118
+      - codecarbon
+      - tqdm
+      - matplotlib
+      - seaborn
+      - --extra-index-url https://download.pytorch.org/whl/cu118
