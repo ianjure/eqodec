@@ -1,6 +1,6 @@
-# EQODEC
+# EQODEC — Energy-Quality Optimized Codec
 
-**EQODEC** is a lightweight Python package that provides **carbon-aware loss functions** and **energy-efficiency evaluation metrics** for neural compression and representation learning systems.
+**EQODEC (Energy-Quality Optimized Codec)** is a lightweight Python package that provides **carbon-aware loss functions** and **energy-efficiency evaluation metrics** for neural compression and representation learning systems.
 
 It enables researchers and engineers to **explicitly account for carbon cost during model training and evaluation**, rather than treating emissions as a post-hoc reporting metric.
 
@@ -113,3 +113,4 @@ EQODEC is intentionally:
 -   **Composable** - integrates into existing pipelines
 -   **Transparent** - interpretable loss components
 -   **Research-first** - aligned with reproducible evaluation
+
